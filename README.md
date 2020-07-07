@@ -1,2 +1,2 @@
 # Angular-Fundamentals
-Code from the edX course
+Code from the edX course.
